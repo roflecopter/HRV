@@ -58,7 +58,7 @@ can then be calculated as additional descriptors.
 import numpy as np
 from matplotlib import style
 import matplotlib.pyplot as plt
-style.use('ggplot')
+#style.use('ggplot')
 
 def plotPoincare(RRints):
     """
